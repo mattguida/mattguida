@@ -8,3 +8,4 @@
 * 🌱 I am interested in NLP, (explainable) AI and Linguistics
 * ⚡ Fun fact: I can touch my nose with my tongue
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
