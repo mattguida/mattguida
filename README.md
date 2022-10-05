@@ -10,4 +10,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
 
-![](https://github.com/user/banner.png) 
+![](https://github.com/user/header.png) 
