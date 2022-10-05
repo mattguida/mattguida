@@ -15,9 +15,6 @@
 - ⚡ Fun fact: I can touch my nose with my tongue!  
   
 
-  
-  
-
 <br/>  
 
 
