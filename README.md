@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="" width="600" />  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="" width="450" />  
   
 
 ### <div align="center">I'm a MA student in Speech and Language Processing 👨‍💻 building up on my previous Linguistic background through NLP methods 🚀</div>  
