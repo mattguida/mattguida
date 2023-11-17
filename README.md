@@ -9,7 +9,7 @@
 - 🔭 My interests cover a variety of topics, among which (explainable) AI, multimodality, lexical semantics, argument mining, text processing.  
   
 
-- 🌱 I’m currently in my third MA semester and working on a project about multimodal sentiment analysis.  
+- 🌱 I’m currently in my final MA semester and working on my final dissertation on automatic hate speech detection in Italian.  
   
 
 - ⚡ Fun fact: I can touch my nose with my tongue!  
