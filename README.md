@@ -3,13 +3,13 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="" width="450" />  
   
 
-### <div align="center">I'm a MA student in Speech and Language Processing 👨‍💻 building up on my previous Linguistic background through NLP methods 🚀</div>  
+### <div align="center">First year Ph.D. candidate 👨‍💻 @ University of Melbourne (School of Computing and Information Systems) 🚀</div>  
   
 
-- 🔭 My interests cover a variety of topics, among which (explainable) AI, multimodality, lexical semantics, argument mining, text processing.  
+- 🔭 Supervised by Prof. Dr. Lea Frermann, Prof. Dr. Ed Hovy, Dr. Yulia Otmakhova.  
   
 
-- 🌱 I’m currently in my final MA semester and working on my final dissertation on automatic hate speech detection in Italian.  
+- 🌱 Investigating automatic (NLP) detection venues of framing and misinformation.  
   
 
 - ⚡ Fun fact: I can touch my nose with my tongue!  
