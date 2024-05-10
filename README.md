@@ -5,7 +5,7 @@
 
 ### First year Ph.D. candidate 👨‍💻 @ University of Melbourne (School of Computing and Information Systems) 🚀
 
-- 🔭 Supervised by Prof. Dr. Lea Frermann, Prof. Dr. Ed Hovy, Dr. Yulia Otmakhova.  
+- 🔭 Supervised by Dr. Lea Frermann, Dr. Ed Hovy, Dr. Yulia Otmakhova.  
   
 
 - 🌱 Investigating automatic (NLP) detection venues of framing and misinformation.  
