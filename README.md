@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="" width="450" />  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" height="" width="450" />  
 
 ### First year Ph.D. candidate 👨‍💻 @ University of Melbourne (School of Computing and Information Systems) 🚀
 
