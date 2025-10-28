@@ -2,7 +2,7 @@
 
 <img src="https://rishavanand.github.io/static/images/greetings.gif" height="" width="450" />  
 
-### First year Ph.D. candidate 👨‍💻 @ University of Melbourne (School of Computing and Information Systems) 🚀
+### Ph.D. student 👨‍💻 @ University of Melbourne (School of Computing and Information Systems) 🚀
 
 - 🔭 Supervised by Dr. Lea Frermann, Dr. Ed Hovy, Dr. Yulia Otmakhova.  
   
